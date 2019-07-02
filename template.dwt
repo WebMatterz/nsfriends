@@ -1,0 +1,127 @@
+﻿
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Nigeria Scrabble, Nigeria scrabble friends, nscrabblefriends, scrabble in Nigeria" />
+<meta name="keywords" content="Nigeria Scrabble, Nigeria scrabble friends, nscrabblefriends, scrabble in nigeria" />
+<title> NSFriends </title>
+
+<link href="styles/fonts.css" rel="stylesheet" type="text/css" />
+<link href="styles/bootstrap.min.css" rel="stylesheet" type="text/css" />
+<link href="styles/jquery-ui-1.8.18.custom.css" rel="stylesheet" type="text/css"/>
+<link href="styles/site.css" class="type/text" rel="stylesheet" />
+<!-- #BeginEditable "styles" -->
+
+<!-- #EndEditable -->
+
+<script type="text/javascript" src="scripts/jquery-1.10.1.min.js"></script>
+    <script type="text/javascript" src="scripts/jquery-ui-1.8.18.custom.min.js"></script>
+    <script type="text/javascript" src="scripts/bootstrap.min.js"></script>
+<!-- #BeginEditable "script" -->
+
+<!-- #EndEditable -->
+
+
+</head>
+
+
+<body>
+
+<header id="header">
+	<div class="container">
+		<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12" id="logoName">
+		<nav class="navbar navbar-default" id="menu">
+			<div class="navbar-header">
+				<button class="btn btn-success btn-lg navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse" aria-expanded="false">
+				<span class="glyphicon glyphicon-align-justify"></span>  </button>
+				<div id="logo">	
+			<a href="."><img src="images/nsflogo.jpg" alt="FLHS" class="img-responsive" title="FLHS"/> </a>
+			<h1> Nigeria Scrabble Friends </h1> 
+			<p> Scrabble lives here .... </p>
+				</div>
+			</div>
+		</nav>
+	</div>
+		
+		<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12" id="nav">
+			<div class="navbar-collapse collapse" id="mainNav">
+				<ul class="nav navbar-nav navbar-right">
+			<li class="nav active"><a href="index.html"> Home</a></li>
+			<li class="nav"><a href="about.html"> About Us </a></li>
+			<li class="nav"><a href="news.html"> News and Events </a></li>
+			<li class="nav"><a href="nspc.html"> NSPC </a></li>
+			<li class="nav"><a href="resources.html"> Resources </a></li>
+			<li class="nav"><a href="contact.html"> Contact </a></li>
+			
+				</ul> 
+			</div>
+		</div>
+	</div>
+</header>
+	
+<section>
+<!-- #BeginEditable "content" -->
+
+	
+<!-- #EndEditable -->
+	</section>
+<section style="min-height:200px;">
+<div id="indexContact">
+	<div class="container-fluid">
+			
+		<div  class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+			<h3> Follow Us On </h3>
+			<hr>
+		<p>
+				<a href="https://web.facebook.com/groups/753967454676863/about/" id="fb" target="_blank" title="Like Our Page on facebook"></a> 
+				<a href="#" id="tw" target="_blank" title="Follow us on twitter"> </a> 
+				<a href="#" id="gg" target="_blank" title="Follow us on google++"></a>
+			</p>
+			<p>&copy; 2018. Nigeria Scrabble Friends, <br> All right reserved</p>
+			<p>Developed by: <a href="http://www.webmatterz.com.ng" target="_blank" title="Web Matterz Nigeria" style="margin-left: -20px;">Web Matterz Nigeria</a></p>
+
+		</div>
+		
+		<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="margin-left: 0px;">
+			<h3> Contact Us </h3>
+			<hr>
+		<p><span class="glyphicon glyphicon-home"></span> No 5, Oremeji Street, Lion bus stop off old Ojoor Road, Lagos state, Nigeria. </p>
+		<p><span class="glyphicon glyphicon-envelope"></span> info@nscrabblefriends.com.ng </p> 
+		<p><span class="glyphicon glyphicon-earphone"></span> +2348170588698,  +2348037866191</p>
+
+		</div>
+		
+			<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 pull-right">
+		<h3> Quick Links </h3>
+			<hr>
+		<li> <a href="about.html"> About Us </a> </li>
+		<li> <a href="news.html"> News and Events </a></li>
+		<li> <a href="nspc.html"> NSPC </a></li>
+		<li> <a href="resources.html"> Resources </a></li>
+		<li> <a href="archive.html"> Archives </a></li>			
+		</div>		
+	</div>
+</div>
+</section>
+
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/5b76eb2cf31d0f771d83e6b5/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
+
+</body>
+
+
+</html>
