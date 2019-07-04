@@ -1,4 +1,0 @@
-host: www.nscrabblefriend,com,ng	
-username: nscrabbl
-password: Scrabble10##	
-port: 21
